@@ -1,5 +1,9 @@
 [
   {
+    "package": "CirclesIntersections",
+    "oncran": true
+  },
+  {
     "package": "ecolTest",
     "oncran": true
   }
