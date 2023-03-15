@@ -1,10 +1,10 @@
 [
   {
-    "package": "ecolTest",
+    "package": "CirclesIntersections",
     "oncran": true
   },
   {
-    "package": "CirclesIntersections",
+    "package": "ecolTest",
     "oncran": true
   }
 ]
